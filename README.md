@@ -18,4 +18,4 @@ To run the code:
 
 ## Author
 
-* **Matt Thompson** - *Math Library*
+* **Matt Thompson** - *Book Database*
